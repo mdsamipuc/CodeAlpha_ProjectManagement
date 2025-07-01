@@ -119,9 +119,9 @@ export default function Index({ users, queryPrams = null }) {
                     </TableHeader>
 
 
+                    <tr/>
 
-
-                    <th className="px-6 py-3 text-sm">ACTIONS</th>
+                    {/* <th className="px-6 py-3 text-sm">ACTIONS</th> */}
                   </tr>
                 </thead>
 
@@ -170,9 +170,9 @@ export default function Index({ users, queryPrams = null }) {
 
                       <td className="px-6 py-4 text-nowrap hover:underline hover:text-white">{user.email}</td>
 
+                     <tr/>
 
-
-                      <td className="px-6 py-4">
+                      {/* <td className="px-6 py-4">
                         <a
                           href={route('user.edit', user.id)}
                           className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
@@ -186,7 +186,7 @@ export default function Index({ users, queryPrams = null }) {
                         >
                           Delete
                         </Link>
-                      </td>
+                      </td> */}
                     </tr>
                   ))}
                 </tbody>
