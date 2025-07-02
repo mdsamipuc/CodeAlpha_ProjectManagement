@@ -35,7 +35,7 @@ export default function Edit({ task, users, projects }) {
       header={
         <div className="flex justify-between items-center">
           <h2 className="text-xl font-semibold leading-tight text-white">
-            Create New Task
+            Update Task
           </h2>
           <Link href={route('task.index')} className="bg-sky-500 py-1 px-3 text-white rounded shadow transition-all hover:bg-sky-700">Back</Link>
         </div>

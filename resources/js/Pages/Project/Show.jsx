@@ -100,8 +100,8 @@ export default function Show({ project, tasks, qureyprams = null }) {
       {
         tasks.data.length > 0 && (
           <div className="mx-auto max-w-7xl sm:px-6 lg:px-8">
-            <div className="overflow-hidden bg-white shadow-sm sm:rounded-lg">
-              <div className="p-6 text-gray-900 dark:text-gray-100">
+            <div className="overflow-hidden bg-gray-900 shadow-sm sm:rounded-lg">
+              <div className="p-6 text-white">
                 <h3 className='text-xl font-semibold mb-4'>Tasks</h3>
                 <TaskTable tasks={tasks} queryParams={queryParams} hiddenProduct={true} />
               </div>
