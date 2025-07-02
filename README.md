@@ -107,6 +107,39 @@ Completed Tasks:      6 / 6
 
 <hr>
 
+<h2>Output</h2>
+
+![project-home](https://github.com/user-attachments/assets/22ba5b6d-768a-4f47-9639-9081e07223c2)
+
+<h4 align="center">All Project</h4>
+
+![project-details](https://github.com/user-attachments/assets/1a8a7975-46a2-41f3-bb2e-2b561abd6ed4)
+
+<h4 align="center">Project Details</h4>
+
+
+![alltask-home](https://github.com/user-attachments/assets/066ae476-39ec-4f75-9907-643b3cab09ac)
+
+<h4 align="center">All Task</h4>
+
+
+![task-details](https://github.com/user-attachments/assets/3913672e-5a1f-481a-b7bf-a76469841405)
+
+<h4 align="center">Task Details</h4>
+
+![update-task](https://github.com/user-attachments/assets/57f4388c-9218-42b3-8197-5e1a42d7182a)
+
+<h4 align="center">Task Update</h4>
+
+![user-home](https://github.com/user-attachments/assets/cce26312-0176-40ab-b8fd-8c893539385b)
+
+<h4 align="center">All User</h4>
+
+![mytask](https://github.com/user-attachments/assets/c25c4987-6c8d-4f25-8929-ac25b9e5ecab)
+
+<h4 align="center">My Active Task</h4>
+<hr>
+
 <h2>🛠️ Setup Instructions</h2>
 
 <h3>1. Clone the Repository</h3>
