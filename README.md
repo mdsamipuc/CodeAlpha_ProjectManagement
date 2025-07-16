@@ -213,8 +213,4 @@ npm run dev
 <p>Licensed under the <strong>MIT License</strong>.<br>
 See the <a href="LICENSE" target="_blank" rel="noopener noreferrer">LICENSE</a> file for more details.</p>
 
-<hr>
 
-<h2>🙌 Acknowledgements</h2>
-<p>Built with ❤️ by <a href="https://github.com/mdsamipuc" target="_blank" rel="noopener noreferrer">@mdsamipuc</a><br>
-Created for the <strong>CodeAlpha Internship Program</strong></p>
